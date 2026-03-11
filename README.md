@@ -33,6 +33,6 @@ Destructuring: Used modern JavaScript destructuring to cleanly extract deeply ne
 👤 Author
 Sriram Vikas
 
-LinkedIn: linkedin.com/in/vickyvikas
+LinkedIn: [linkedin.com/in/vickyvikas](https://www.linkedin.com/in/vickyvikas/)
 
 GitHub: @VickyVikas01
