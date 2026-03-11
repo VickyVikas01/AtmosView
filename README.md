@@ -1,7 +1,7 @@
 AtmosView 🌦️
 A sleek, responsive, and real-time weather dashboard that provides live weather data for any city worldwide using the OpenWeatherMap API.
 
-🔗 Live Demo on Netlify
+🔗 Live Demo on Netlify : [https://atmosview01.netlify.app/](https://www.linkedin.com/in/vickyvikas/)
 
 🚀 Features
 Global Search: Enter any city name to get instant weather updates.
